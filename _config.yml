@@ -6,3 +6,5 @@ url: https://kgbcccp.github.io/blog
 
 aux_links:
   Template Repository: https://github.com/kgbcccp/blog
+plugins:
+  - jekyll-default-layout
