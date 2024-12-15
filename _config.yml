@@ -1,8 +1,8 @@
-title: Just the Docs Template
+title: Tran Quoc Nam Blog (Just the Docs Template)
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://kgbcccp.github.io
+url: https://kgbcccp.github.io/blog
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/kgbcccp/blog
