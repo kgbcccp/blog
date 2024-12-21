@@ -14,3 +14,4 @@ On stage, he compared AI development with evolutionary biology, citing research 
 He suggests that, just as evolution discovered a new scaling model for the brain of hominids, AI may discover a new scaling method that goes beyond current pre-training models.<br/>
 @NueroIPS2024 #AI #ilyasutskever<br/>
 Source: The Verge<br/>
+<b>Link</b> : https://www.facebook.com/share/p/14tAaMi5cq/
