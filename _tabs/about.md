@@ -12,15 +12,9 @@ permalink: /about/
 > <b>Trần Quốc Nam - VNPT IT</b>.
 {: .prompt-tip }
  
-> Linkedin: [www.linkedin.com/in/danangloving](www.linkedin.com/in/danangloving)
+> Linkedin: [www.linkedin.com/in/danangloving](http://www.linkedin.com/in/danangloving)
 {: .prompt-tip }
 
-> Facebook: [www.facebook.com/danangloving](www.facebook.com/danangloving)
+> Facebook: [www.facebook.com/danangloving](http://www.facebook.com/danangloving)
 {: .prompt-tip }
-<section class="main-content">
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    <article class="module color-3">
-        {{ content }}
-    </article>
-</section>
+
