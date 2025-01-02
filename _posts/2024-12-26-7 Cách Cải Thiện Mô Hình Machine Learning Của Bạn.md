@@ -4,7 +4,7 @@ date: 2024-12-26
 categories: [AI,ML]
 tags: [AI,Machine learning]
 description: "Cải thiện mô hình machine learning (ML) là một bước cần thiết trong việc tối ưu hóa hiệu suất và áp dụng thực tế của mô hình. Mô hình ban đầu có thể không đủ độ chính xác, dẫn đến kết quả không mong muốn do đó cải thiện mô hình giúp tăng độ chính xác và đáng tin cậy. Ngoài ra  dữ liệu và yêu cầu kinh doanh luôn thay đổi nên đòi hỏi cải thiện mô hình giúp nó thích nghi với những thay đổi này"
-font:Georgia
+
 ---
 1️⃣ Làm sạch dữ liệu
 Làm sạch dữ liệu là phần quan trọng nhất. Bạn cần điền vào các giá trị bị thiếu, xử lý các giá trị ngoại lệ, chuẩn hóa dữ liệu và đảm bảo tính hợp lệ của dữ liệu. Đôi khi, việc làm sạch dữ liệu bằng một script Python không thực sự hiệu quả. Bạn phải xem xét từng mẫu một để đảm bảo không có vấn đề gì. Tôi biết điều này sẽ tốn nhiều thời gian của bạn, nhưng tin tôi đi, làm sạch dữ liệu là phần quan trọng nhất trong hệ sinh thái học máy.
