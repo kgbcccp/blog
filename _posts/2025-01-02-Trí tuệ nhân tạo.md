@@ -1,5 +1,5 @@
 ---
-title: "Trí tuệ nhân tạo"
+title: "Trí tuệ nhân tạo: một cách dễ hiểu nhất."
 date: 2025-01-02
 categories: [AI]
 tags: [AI,Machine learning,GPT]
