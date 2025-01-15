@@ -1,9 +1,9 @@
 ---
-title: "Don't Do RAG - Do CAG !"
+title: "Các nguồn tài nguyên hữu ích cho kỹ sư phần mềm !"
 date: 2025-01-08
 categories: [Học tập]
 tags: [AI,RAG, Học tập, System Design, LLM]
-description: "GitHub has more than 200,000,000 repositories, but only 5% of them have helpful resources for software engineers. Here are 40 of my favorite repositories."
+description: "Github hiện tại có hơn 200 triệu kho dữ liệu (repositories) nhưng chỉ khoảng 5% trong số đó là hữu ích với các kỹ sư phần mềm. Dưới đây sẽ liệt kê 40 kho dữ liệu là hữu ích theo đánh giá cá nhân."
 ---
 𝗖𝗼𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻
 
