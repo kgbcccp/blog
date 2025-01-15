@@ -1,6 +1,6 @@
 ---
 title: "Các nguồn tài nguyên hữu ích cho kỹ sư phần mềm !"
-date: 2025-01-08
+date: 2025-01-15
 categories: [Học tập]
 tags: [AI,RAG, Học tập, System Design, LLM]
 description: "Github hiện tại có hơn 200 triệu kho dữ liệu (repositories) nhưng chỉ khoảng 5% trong số đó là hữu ích với các kỹ sư phần mềm. Dưới đây sẽ liệt kê 40 kho dữ liệu là hữu ích theo đánh giá cá nhân."
