@@ -14,6 +14,6 @@ Data Extraction - RAG applications require extraction of data from websites and 
 Open LLMs Access - Ollama is a tool that helps to use open LLMs locally. Platforms like Groq, Hugging Face and Together AI offer API access to open LLMs.<br/>
 Text Embeddings - Text embeddings are used to transform text chunks into embeddings for similar chunks retrieval. Apart from text embedding models, image embedding and multi-modal embedding models are also available.<br/>
 Evaluation - Giskard and Ragas are the popular libraries to evaluate RAG applications.<br/>
-<img src="" />
+<img src="RAG stack developer.jpg" />
 <br/>
 <b>From :</b> https://www.facebook.com/share/p/18r4KRsMEC/ 
