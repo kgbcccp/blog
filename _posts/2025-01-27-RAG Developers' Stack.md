@@ -14,6 +14,6 @@ RAG helps to enhance the accuracy of LLM answers by providing relevant context f
 <b>Open LLMs Access</b> - Ollama is a tool that helps to use open LLMs locally. Platforms like Groq, Hugging Face and Together AI offer API access to open LLMs.<br/>
 <b>Text Embeddings</b> - Text embeddings are used to transform text chunks into embeddings for similar chunks retrieval. Apart from text embedding models, image embedding and multi-modal embedding models are also available.<br/>
 <b>Evaluation</b> - Giskard and Ragas are the popular libraries to evaluate RAG applications.<br/>
-<img src="posts/RAG-stack-developer.jpg" />
+<img src="RAG stack developer.jpg" />
 <br/>
 <b>From :</b> https://www.facebook.com/share/p/18r4KRsMEC/ 
