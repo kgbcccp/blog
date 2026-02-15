@@ -1,9 +1,9 @@
 ---
-title: "Satya Nadella xác nhận kiến trúc "LLM Council""
+title: "Satya Nadella xác nhận kiến trúc LLM Council"
 date: 2026-02-15
 categories: [Fine-tune]
 tags: [AI,Machine learning,Fine-tune]
-description: "Satya Nadella xác nhận kiến trúc "LLM Council""
+description: "Satya Nadella xác nhận kiến trúc LLM Council"
 ---
 **Satya Nadella vừa xác nhận kiến trúc "LLM Council"**
 
