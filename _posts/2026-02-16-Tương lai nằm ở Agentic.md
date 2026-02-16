@@ -1,5 +1,5 @@
 ---
-title: "Tương lai không nằm ở "chat" nữa rồi mà nằm ở "Agentic""
+title: "Tương lai không nằm ở "chat" nữa rồi mà nằm ở Agentic"
 date: 2026-02-16
 categories: [AI, Agentic]
 tags: [AI,Agentic]
