@@ -38,6 +38,6 @@ Ngành đang dịch chuyển từ "Sinh nội dung" sang "Xác minh".
 \- Vai trò rất quan trọng. Model được giao nhiệm vụ phản biện sẽ hành xử khác với model được giao nhiệm vụ sáng tạo.
 
 Đây không chỉ là demo công nghệ. Đây là sự thừa nhận rằng không model đơn lẻ nào — dù mạnh đến đâu — nên được tin tưởng một mình cho những quyết định quan trọng.
-![A description of the image](/posts/LLM-Council.jpg) 
+![A description of the image](/LLM-Council.jpg) 
 
 Link : https://www.facebook.com/share/p/17tuQVaCSk/
