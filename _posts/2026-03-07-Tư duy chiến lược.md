@@ -1,6 +1,6 @@
 ---
 title: "Tư duy chiến lược (Strategic Thinking)"
-date: 2026-02-17
+date: 2026-03-07
 categories: [Strategy]
 tags: [Strategy,Thinking]
 description: "Tư duy chiến lược chính là nền tảng để bạn đảm nhận những trọng trách lớn hơn. Dù bạn chọn con đường chuyên gia (IC) hay quản lý (Manager), khả năng nhìn ra “bức tranh lớn” là thước đo phân biệt giữa một người thực thi thuần túy và một kỹ sư có tầm vóc"
