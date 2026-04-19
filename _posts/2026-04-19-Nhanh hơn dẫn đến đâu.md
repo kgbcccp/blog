@@ -5,7 +5,7 @@ categories: [AI]
 tags: [AI,LLM]
 description: "AI đang giúp chúng ta code nhanh hơn. Chắc là ít ai còn nghi ngờ điều này. Và câu hỏi tiếp theo sẽ là: nhanh hơn dẫn đến đâu?."
 ---
-&nbsp;[**Nhanh hơn dẫn đến đâu?**](https://substack.com/app-link/post?publication_id=1252214&post_id=192070904&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=1xbbek&token=eyJ1c2VyX2lkIjoxMTY0MjE1MDAsInBvc3RfaWQiOjE5MjA3MDkwNCwiaWF0IjoxNzc2NTg0ODAxLCJleHAiOjE3NzkxNzY4MDEsImlzcyI6InB1Yi0xMjUyMjE0Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.xs3VpwpF4NT63ubfWyKy3T8ft7NuioH-02rdn-aTwmA)
+&nbsp;**Nhanh hơn dẫn đến đâu?**
 
 AI đang giúp chúng ta code nhanh hơn. Chắc là ít ai còn nghi ngờ điều này. Và câu hỏi tiếp theo sẽ là: nhanh hơn dẫn đến đâu?
 
