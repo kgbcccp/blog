@@ -5,7 +5,7 @@ categories: [AI]
 tags: [AI,LLM]
 description: "AI đang giúp chúng ta code nhanh hơn. Chắc là ít ai còn nghi ngờ điều này. Và câu hỏi tiếp theo sẽ là: nhanh hơn dẫn đến đâu?."
 ---
-&nbsp;**Nhanh hơn dẫn đến đâu?**
+**Nhanh hơn dẫn đến đâu?**
 
 AI đang giúp chúng ta code nhanh hơn. Chắc là ít ai còn nghi ngờ điều này. Và câu hỏi tiếp theo sẽ là: nhanh hơn dẫn đến đâu?
 
