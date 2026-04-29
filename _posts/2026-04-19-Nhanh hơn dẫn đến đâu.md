@@ -3,7 +3,7 @@ title: "Nhanh hơn dẫn đến đâu ?"
 date: 2026-04-19
 categories: [AI]
 tags: [AI,LLM]
-description: "AI đang giúp chúng ta code nhanh hơn. Chắc là ít ai còn nghi ngờ điều này. Và câu hỏi tiếp theo sẽ là: nhanh hơn dẫn đến đâu?."
+description: "AI đang giúp chúng ta code nhanh hơn. Chắc là ít ai còn nghi ngờ điều này. Và câu hỏi tiếp theo sẽ là: nhanh hơn dẫn đến đâu?"
 ---
 **Nhanh hơn dẫn đến đâu?**
 
