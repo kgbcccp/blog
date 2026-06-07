@@ -44,7 +44,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1.4
-          bundler-cache: true
+          bundler-cache: false
+
+      - name: Bundle install
+        run: |
+          gem install bundler
+          bundle install --retry 5
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
