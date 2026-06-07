@@ -5,9 +5,6 @@ categories: [AI, Prompt]
 tags: [AI,Prompt,Workflow]
 description: "Các mô hình AI tiên tiến hiện nay bao gồm Claude, Gemini và NotebookLM đang trực tiếp thay đổi cách thức vận hành công việc báo cáo của các đội ngũ. Từ giai đoạn *research* (nghiên cứu), viết, trình bày cho đến tóm tắt, toàn bộ quy trình hiện tại có thể được tối ưu hóa chỉ với một nhân sự kết hợp cùng một *workflow* (quy trình làm việc) AI chuẩn chỉnh"
 ---
-
-# Cách Combo NotebookLM, Gemini và Claude Tối Ưu Hóa Quy Trình Xử Lý Báo Cáo Chuyên Nghiệp
-
 Các mô hình AI tiên tiến hiện nay bao gồm Claude, Gemini và NotebookLM đang trực tiếp thay đổi cách thức vận hành công việc báo cáo của các đội ngũ. Từ giai đoạn *research* (nghiên cứu), viết, trình bày cho đến tóm tắt, toàn bộ quy trình hiện tại có thể được tối ưu hóa chỉ với một nhân sự kết hợp cùng một *workflow* (quy trình làm việc) AI chuẩn chỉnh.
 
 Việc ứng dụng combo công cụ này cho phép xử lý khối lượng công việc tương đương một nhóm nhỏ với tốc độ vượt trội hơn rất nhiều. Dưới đây là chi tiết *workflow* tối ưu hóa hiệu suất đang được áp dụng:
@@ -94,7 +91,5 @@ Nguồn tham khảo: Bài viết chia sẻ trên Facebook cá nhân về quy tr�
 *(Hình ảnh đính kèm từ bài viết gốc: ![Workflow AI Infographic](https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/719715876_122173894004942599_8747570190023367464_n.jpg?stp=dst-jpg_tt6&cstp=mx592x1036&ctp=s592x1036&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFKcPdulYC9xWWXaCBb5VWBYZUYJr8d1bxhlRgmvx3VvGATOFTlg3nulb1r3qoKx2CenKJjVa-mfB8YQOGEsgsT&_nc_ohc=-Uo9gnjmBmcQ7kNvwHzVyXz&_nc_oc=AdrVXExamP21E3m_XGyAS9P9ItinGtVlOVS05k217XHRt_6qLPyydDgun8fFhADZZ89QpPNTmGdTzZdHycbjpnGj&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=qnMYkrWglPoVqvi1Y-87iQ&_nc_ss=7b2a8&oh=00_Af8UfamZ5lTpMxyI5df_kCBq21_bmZRk8SHz2OgMPtgfKA&oe=6A2AB4CE))*
 
 ---
-
 ### Tóm tắt bài viết (Meta Description)
 Bài viết chia sẻ chi tiết workflow phối hợp 3 công cụ AI đỉnh cao gồm NotebookLM, Gemini và Claude nhằm tối ưu hóa toàn bộ quy trình xử lý báo cáo từ nghiên cứu đến hoàn thiện. Khám phá cách phân chia vai trò từ hệ thống tài liệu đầu vào, mở rộng insight đối lập cho đến tinh chỉnh văn phong theo nhiều tone giọng chuyên nghiệp. Đây là giải pháp công nghệ giúp một nhân sự có thể vận hành khối lượng công việc của cả một đội ngũ và tiết kiệm hàng giờ làm việc mỗi tuần.
-
