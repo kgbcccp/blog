@@ -3,7 +3,8 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.3"
-gem "sass", "~> 3.7"
+gem "sass", "~> 1.69"
+gem "sass-embedded", "~> 1.69"
 
 gem "html-proofer", "~> 5.0", group: :test
 
