@@ -4,12 +4,9 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
-
-on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+# This workflow is deprecated - use pages-deploy.yml instead
+name: Deploy Jekyll site to Pages (DEPRECATED)
+on: []  # Disabled - no triggers
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
