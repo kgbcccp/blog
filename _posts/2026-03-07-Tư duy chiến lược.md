@@ -47,8 +47,8 @@ Trong kỷ nguyên AI ngày nay, khi các Agent có thể viết code và thực
 
 Điểm cạnh tranh cốt lõi của con người chính là khả năng xác định cái Why. Giống như Kỹ sư B, một khi bạn đã định vị đúng vấn đề và chiến lược, bạn hoàn toàn có thể sử dụng AI như một công cụ đắc lực để hiện thực hóa các kế hoạch.
 
-Hãy bắt đầu năm mới bằng cách tự hỏi mình nhiều hơn câu hỏi “Tại sao” trước khi bắt tay vào gõ dòng code đầu tiên. Đó chính là khởi đầu của một năm đột phá!
+Hãy bắt đầu ngày mới bằng cách tự hỏi mình nhiều hơn câu hỏi “Tại sao” trước khi bắt tay vào gõ dòng code đầu tiên. Đó chính là khởi đầu của một ngày đột phá!
 
-Chúc các bạn một năm mới làm việc đầy cảm hứng và chiến lược!
+Chúc các bạn một ngày mới làm việc đầy cảm hứng và chiến lược!
 
 **_\[ From : Grokking Việt Nam \]_**
