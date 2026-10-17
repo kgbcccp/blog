@@ -1,12 +1,18 @@
-/* Custom CSS overrides to make the post description use the same font as the post content.
-   This file purposely keeps specificity low and uses "inherit" so it will match the theme's
-   body/post font unless a theme rule has higher specificity. If you still see differences,
-   we can increase specificity for the exact selector observed in DevTools.
+/* Custom CSS overrides to make the post description use Times New Roman.
+   Increased selector coverage and specificity to ensure the override applies
+   even if the theme defines several different selectors for the description.
 */
 
-/* Only change font for the post description inside the header (header .post-desc).
-   Do NOT change headings globally. */
-header .post-desc {
+/* Target multiple possible selectors that the theme may use for the description */
+header .post-desc,
+.post-desc,
+.post .post-desc,
+.post-header .post-desc,
+.post-meta .post-desc,
+.post .description,
+.post-intro .post-desc,
+header .post-desc > p,
+.post-desc p {
   font-family: "Times New Roman", Times, serif !important;
   /* preserve theme color/weight */
   color: var(--heading-color);
@@ -14,7 +20,7 @@ header .post-desc {
   scroll-margin-top: 3.5rem;
 }
 
-/* Common selectors used by Jekyll themes for post descriptions / excerpts */
+/* Keep other description/excerpt selectors inheriting the site/post font */
 .post-description,
 .entry-summary,
 .entry-content .lead,
