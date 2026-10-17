@@ -1,0 +1,28 @@
+/* Custom CSS overrides to make the post description use the same font as the post content.
+   This file purposely keeps specificity low and uses "inherit" so it will match the theme's
+   body/post font unless a theme rule has higher specificity. If you still see differences,
+   we can increase specificity for the exact selector observed in DevTools.
+*/
+
+/* Common selectors used by Jekyll themes for post descriptions / excerpts */
+.post-description,
+.entry-summary,
+.entry-content .lead,
+.post .lead,
+.post .post-intro,
+.post .summary,
+.post .excerpt,
+.post-meta .description,
+.post .intro,
+.post-header .description {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+/* As a fallback, force the first paragraph after the post header to inherit the post font */
+.post-header + .post-content p:first-of-type,
+.post-header + .entry-content p:first-of-type {
+  font-family: inherit;
+}
