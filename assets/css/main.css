@@ -4,6 +4,16 @@
    we can increase specificity for the exact selector observed in DevTools.
 */
 
+/* Only change font for the post description inside the header (header .post-desc).
+   Do NOT change headings globally. */
+header .post-desc {
+  font-family: "Times New Roman", Times, serif !important;
+  /* preserve theme color/weight */
+  color: var(--heading-color);
+  font-weight: 400;
+  scroll-margin-top: 3.5rem;
+}
+
 /* Common selectors used by Jekyll themes for post descriptions / excerpts */
 .post-description,
 .entry-summary,
